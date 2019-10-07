@@ -4,5 +4,6 @@
   "4": {"vehicle_id": 423939, "logic_desc": "Req A62, A63, A66 or A67 -Req X9 - Incl T9 or GJ - N/A w/APD", "decision":"fail", "note":"miss a space after dash line"},
   "5": {"vehicle_id": 423939, "logic_desc": "Req A62,A63, A66 or A67 - Req X9 - Incl T9 or GJ - N/A w/APD", "decision":"fail", "note":"miss a space after comma"},
   "6": {"vehicle_id": 423939, "logic_desc": "Req A62, A63, A66, A67 - Req X9 - Incl T9 or GJ - N/A w/APD", "decision":"fail", "note":"miss a relationship"},
-  "7": {"vehicle_id": 423939, "logic_desc": "Req A62, A63, A64 or A65 on Big Horn & Rebel", "decision":"fail", "note":"'on' is not a valid string"}
+  "7": {"vehicle_id": 423939, "logic_desc": "Req A62, A63, A64 or A65 on Big Horn & Rebel", "decision":"fail", "note":"'on' is not a valid string"},
+  "8": {"vehicle_id": 423939, "logic_desc": "Re A62, A63, A64 or A65", "decision":"fail", "note":"'Re' is not a valid start string"}
 }
